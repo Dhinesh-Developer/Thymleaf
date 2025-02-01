@@ -1,0 +1,5 @@
+com\adf\thymeleaf\ServerPortCustomizer.class
+com\adf\thymeleaf\Controller\HelloWorldController.class
+com\adf\thymeleaf\Controller\userController.class
+com\adf\thymeleaf\Model\user.class
+com\adf\thymeleaf\ThymeleafApplication.class
